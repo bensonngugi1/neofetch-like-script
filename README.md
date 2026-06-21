@@ -1,8 +1,25 @@
-# Just download and run this:
+# Super Simple Steps
+
+## Clone by running this:
 
 ```
-chmod +x bash-This gives it execution permission
+https://github.com/bensonngugi1/neofetch-like-script.git
 
 ```
 
-## As simple as that feel free to modify it.
+## Then:
+
+```
+
+chmod +x bash
+
+```
+
+## Finally:
+
+```
+bash
+
+```
+
+_Note🖋️:**I know there are best scripts more than this.But this is set to be improved step by step by anyone**_
